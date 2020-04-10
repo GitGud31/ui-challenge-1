@@ -1,17 +1,28 @@
 # ushoez
 
-A new Flutter project.
+![](demo/screenshot1.jpg) ![](demo/screenshot2.jpg)
 
-## Getting Started
+![](demo/demo.gif)
 
-This project is a starting point for a Flutter application.
+![](name-of-giphy.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## UI Challenge 1
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Demo App for a Shoes Store, containing a List of shoes and their profiles.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Design inspiration: 
+Link: https://dribbble.com/shots/6045030-Surf-App-Instructors-List-Profile/attachments
+
+## Widgets Used: 
+- GridView
+- Hero
+- Stack
+- Container
+- Positioned
+- Align
+- Row
+- Column
+- Scaffold
+- Padding
+
 # ui-challenge-1

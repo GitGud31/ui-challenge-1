@@ -1,6 +1,6 @@
 # ushoez
 
-![](demo/screenshot1.jpg) ![](demo/screenshot2.jpg)
+<img src="demo/screenshot1.jpg" width="200" height="400"> <img src="demo/screenshot2.jpg" width="200" height="400">
 
 ![](demo/demo.gif)
 
